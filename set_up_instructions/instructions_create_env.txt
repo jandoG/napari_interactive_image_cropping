@@ -1,0 +1,5 @@
+
+conda env create --file path_to_environment_napari_n2v_ipf.yml 
+conda activate napari_n2v_ipf 
+conda install ipykernel
+python -m ipykernel install --user --name napari_n2v_ipf --display-name "napari_n2v_ipf"
