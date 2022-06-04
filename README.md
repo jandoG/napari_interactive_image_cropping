@@ -30,6 +30,7 @@ This repository contains jupyter notebooks which interactively crop fluorescence
 
 ### Installation
 - Use the environment file unser `set_up_instructions` to install napari and other required libraries.
+- Keep the script `imgprocessing_functions.py` next to the jupyter notebook while running.
 
 
 *This project was original done in collaboration with Ksenia Kuznetsova, PhD at Vastenhouw lab (Oct 2021, MPI-CBG, Dresden). The code is published with permission.*
